@@ -1,0 +1,46 @@
+# Virtual environments
+venv/
+env/
+myvenv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Django secret environment file
+.env
+
+# SQLite database
+db.sqlite3
+
+# Logs
+*.log
+
+# Media/uploads (optional: if you're storing uploaded files locally during dev)
+media/
+staticfiles/
+
+homework_answers
+
+**/migrations/*.py
+!**/migrations/__init__.py
+**/migrations/*.pyc
+
+
+# Byte-compiled / packages
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
