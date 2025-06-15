@@ -9,8 +9,8 @@ Built with **Django** and **Django REST Framework**, it’s modular, scalable, a
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/school-management-api.git
-cd school-management-api
+git clone https://github.com/hirbodprime/school_system.git
+cd school_system
 
 # Create virtual environment
 python -m venv venv
